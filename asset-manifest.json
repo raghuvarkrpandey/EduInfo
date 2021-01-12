@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/EduInfo/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/EduInfo/static/js/main.715e30ce.chunk.js",
+    "main.js.map": "/EduInfo/static/js/main.715e30ce.chunk.js.map",
+    "runtime-main.js": "/EduInfo/static/js/runtime-main.05b66aaf.js",
+    "runtime-main.js.map": "/EduInfo/static/js/runtime-main.05b66aaf.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/EduInfo/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f03304ee.chunk.js": "/EduInfo/static/js/2.f03304ee.chunk.js",
+    "static/js/2.f03304ee.chunk.js.map": "/EduInfo/static/js/2.f03304ee.chunk.js.map",
+    "static/js/3.52c8abee.chunk.js": "/EduInfo/static/js/3.52c8abee.chunk.js",
+    "static/js/3.52c8abee.chunk.js.map": "/EduInfo/static/js/3.52c8abee.chunk.js.map",
+    "index.html": "/EduInfo/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/EduInfo/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/EduInfo/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.f03304ee.chunk.js.LICENSE.txt": "/EduInfo/static/js/2.f03304ee.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/EduInfo/static/media/logo.6ce24c58.svg",
+    "static/media/slide-1.dd1a52c3.jpg": "/EduInfo/static/media/slide-1.dd1a52c3.jpg",
+    "static/media/slide-2.b93a5e53.jpg": "/EduInfo/static/media/slide-2.b93a5e53.jpg",
+    "static/media/slide-3.644b1e28.jpg": "/EduInfo/static/media/slide-3.644b1e28.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05b66aaf.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.f03304ee.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.715e30ce.chunk.js"
+  ]
+}
